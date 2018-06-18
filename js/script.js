@@ -21,6 +21,7 @@ console.log(a+b);//Le console ne s'éxecute seulement dans la console, en faisan
 console.log(a*b);
 console.log(a-b);
 console.log(a/b);
+console.log(a%b); //Renvoi le reste de la division
 
 function changeColor(newColor) {
     var elem = document.getElementById('header');
