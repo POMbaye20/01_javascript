@@ -33,3 +33,8 @@ if (!t === "test") {
 }else{
     document.write('poiuytreza');
 }
+
+var t = false;
+if(!t) {
+    
+}
